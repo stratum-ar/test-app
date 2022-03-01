@@ -1,0 +1,11 @@
+{
+	"app": "test-app",
+    "info": {
+        "name": "Test App",
+        "author": "Team Stratum",
+        "version": "1.0.0"
+    },
+    "launch": {
+        "command": "node index.js $$APPID$$"
+    }
+}
